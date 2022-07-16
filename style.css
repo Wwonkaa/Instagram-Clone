@@ -1,0 +1,201 @@
+.*{ 
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.ml-n1 {
+    margin-left: 27rem !important;
+  }
+
+.scborder{
+
+    border: solid 0.1px;
+    box-shadow: 2px 2px grey;
+    border-radius: 4px;
+
+
+
+}
+
+
+.w-15{
+    width: 15px;
+}
+
+.srcbtn{
+
+   margin-top: -20px;
+   margin-left: 160px;
+   margin-bottom: 50px;
+
+
+}
+
+.navbarcss{
+
+    margin-left: 100px;
+
+
+
+}
+
+.boyut{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    font-size: 16px;
+    border :solid 0.5px;
+    border-radius:10px ;
+    display: inline;
+    background-color: white;
+    margin: auto;
+    margin-left: 22%;
+
+}
+
+
+.mj-menu{
+    
+}
+
+.bx-shadow{
+
+    box-shadow: 1px 1px grey;
+
+}
+.icss{
+
+    border-radius: 50% 50%;
+    
+}
+.cardcss{
+
+    max-width: 54px;
+    max-height: 54px;
+    border: 2px;
+    border-color: red;
+    border-radius: 6px;
+
+}
+.slipbar{
+    
+    height: 110px;
+    border: solid 0.5px;
+    border-radius: 5px;
+    border-color: lightcyan;
+
+}
+.slipbar>div>img {
+
+    border: solid 1.5px;
+    border-color:#ff3300;
+    border-image-repeat: repeat;
+    border-radius: 28px;
+    margin-top: 8px;
+    margin-right: 17px;
+    padding: 1.5px;
+    
+}
+
+#rimage{
+
+    border: solid 1.5px;
+    border-color:#ff3300;
+    border-image-repeat: repeat;
+    border-radius: 28px;
+    padding: 1px;
+    margin-top: 20px;
+    
+}
+
+#rimage2{
+
+    border-image-repeat: repeat;
+    border-radius: 28px;
+
+    
+}
+
+.tspa{
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: rgb(231, 231, 231);
+    width: 80px;
+
+
+
+
+}
+
+.slipbar>div{
+
+    margin-left: 14px;
+    margin-top: 10px;
+}
+   
+
+.textinimage{
+width: 50px;
+font-size: 12px;
+text-align:center;
+margin-top: 7px;
+
+}
+
+.rtext{
+margin-top: -40px;
+margin-left:-35px;
+font-size: 14px;
+
+}
+
+.fstmngr{
+
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.fsson{
+    font-size: 14px;
+}
+.fsson2{
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: px;
+}
+.height{
+    max-height: 50px;
+}
+
+.maside *{
+}
+
+.footercss{
+    margin-top: 10px;
+    text-align: cente;
+    font-size: 10px;
+    font-weight: bold;
+    display: inline-block;
+    opacity:0.5;
+
+}
+
+.postarea{
+    border-top:solid 0.3px;
+    border-left: solid 0.3px;
+    border-right: solid 0.3px;
+    border-color:rgb(227, 235, 235);
+    box-shadow: 2px 2px ghostwhite;
+    border-radius: 2px;
+}
+
+.postareaimg{
+
+    max-width: 520px;
+    max-height: 600px;
+    
+
+  }
+
+
+
